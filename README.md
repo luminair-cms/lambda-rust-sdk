@@ -13,3 +13,7 @@ Push to a registry
 docker tag luminair-cmd/lambda-rust-sdk:latest ghcr.io/your-org/lambda-rust-sdk:latest
 docker push ghcr.io/luminair-cms/lambda-rust-sdk:latest
 ```
+
+## github actions
+
+https://github.com/docker/metadata-action
